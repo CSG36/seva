@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/*.ts": {
+      "includeFiles": "backend/knowledge/karnataka_services.json"
+    }
+  },
+  "rewrites": [
+    { "source": "/health", "destination": "/api/health" }
+  ]
+}

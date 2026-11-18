@@ -1,0 +1,389 @@
+{
+  "catalogue_metadata": {
+    "state": "Karnataka",
+    "country": "India",
+    "verified_policy": "Contains only verified official Karnataka government portal records. No fabricated schemes, fees, processing timelines, or document checklists.",
+    "supported_languages": ["en", "kn", "hi"]
+  },
+  "services": [
+    {
+      "id": "seva-one-namma-seve",
+      "name": {
+        "en": "Seva One / Namma Seve",
+        "kn": "ಸೇವಾ ಒನ್ / ನಮ್ಮ ಸೇವೆ",
+        "hi": "सेवा वन / नम्मा सेवे"
+      },
+      "category": {
+        "en": "Seva One / Namma Seve",
+        "kn": "ಸೇವಾ ಒನ್ / ನಮ್ಮ ಸೇವೆ",
+        "hi": "सेवा वन / नम्मा सेवे"
+      },
+      "department": {
+        "en": "Department of e-Governance, Government of Karnataka",
+        "kn": "ಇ-ಆಡಳಿತ ಇಲಾಖೆ, ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "ई-गवर्नेंस विभाग, कर्नाटक सरकार"
+      },
+      "description": {
+        "en": "Official Karnataka integrated citizen service facilitation portal providing unified access to citizen-centric services, departmental portals, and assisted service center information.",
+        "kn": "ನಾಗರಿಕ-ಕೇಂದ್ರಿತ ಸೇವೆಗಳು, ಇಲಾಖಾ ಪೋರ್ಟಲ್‌ಗಳು ಮತ್ತು ಸಹಾಯ ಸೇವಾ ಕೇಂದ್ರಗಳ ಮಾಹಿತಿಗೆ ಏಕೀಕೃತ ಪ್ರವೇಶವನ್ನು ನೀಡುವ ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಸೇವಾ ಪೋರ್ಟಲ್.",
+        "hi": "नागरिक-केंद्रित सेवाओं, विभागीय पोर्टलों और सहायता सेवा केंद्रों की जानकारी तक एकीकृत पहुंच प्रदान करने वाला कर्नाटक सरकार का आधिकारिक पोर्टल।"
+      },
+      "next_steps": {
+        "en": [
+          "Open the official Seva One portal using the verified link below.",
+          "Browse available citizen service categories or locate your nearest facilitation center.",
+          "Follow the department-specific instructions and official login requirements displayed on the portal."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಅಧಿಕೃತ ಲಿಂಕ್ ಮೂಲಕ ಸೇವಾ ಒನ್ ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ.",
+          "ಲಭ್ಯವಿರುವ ನಾಗರಿಕ ಸೇವಾ ವಿಭಾಗಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ಹತ್ತಿರದ ಸೇವಾ ಕೇಂದ್ರವನ್ನು ಹುಡುಕಿ.",
+          "ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ತೋರಿಸಿರುವ ಇಲಾಖಾ ಸೂಚನೆಗಳು ಮತ್ತು ಲಾಗಿನ್ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए आधिकारिक लिंक से सेवा वन पोर्टल खोलें।",
+          "उपलब्ध नागरिक सेवा श्रेणियां देखें या अपने निकटतम सेवा केंद्र की जानकारी प्राप्त करें।",
+          "पोर्टल पर दिखाए गए विभागीय निर्देशों और लॉगिन प्रक्रिया का पालन करें।"
+        ]
+      },
+      "official_url": "https://sevaone.karnataka.gov.in/",
+      "portal_label": "sevaone.karnataka.gov.in",
+      "keywords": [
+        "seva one",
+        "namma seve",
+        "sevaone",
+        "karnataka citizen portal",
+        "ಸೇವಾ ಒನ್",
+        "ನಮ್ಮ ಸೇವೆ",
+        "ಕರ್ನಾಟಕ ಸೇವೆ",
+        "सेवा वन",
+        "नम्मा सेवे",
+        "कर्नाटक सेवा"
+      ],
+      "suggested_followups": {
+        "en": "How is Seva Sindhu different from Seva One?",
+        "kn": "ಸೇವಾ ಸಿಂಧು ಮತ್ತು ಸೇವಾ ಒನ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+        "hi": "सेवा सिंधु और सेवा वन में क्या अंतर है?"
+      }
+    },
+    {
+      "id": "seva-sindhu",
+      "name": {
+        "en": "Seva Sindhu Portal",
+        "kn": "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್",
+        "hi": "सेवा सिंधु पोर्टल"
+      },
+      "category": {
+        "en": "Seva Sindhu",
+        "kn": "ಸೇವಾ ಸಿಂಧು",
+        "hi": "सेवा सिंधु"
+      },
+      "department": {
+        "en": "Directorate of Electronic Delivery of Citizen Services (EDCS), Karnataka",
+        "kn": "ನಾಗರಿಕ ಸೇವೆಗಳ ವಿದ್ಯುನ್ಮಾನ ವಿತರಣಾ ನಿರ್ದೇಶನಾಲಯ (EDCS), ಕರ್ನಾಟಕ",
+        "hi": "नागरिक सेवाओं के इलेक्ट्रॉनिक वितरण निदेशालय (EDCS), कर्नाटक"
+      },
+      "description": {
+        "en": "The Government of Karnataka's unified single-window portal for applying online for state government services, departmental certificates, and welfare schemes.",
+        "kn": "ರಾಜ್ಯ ಸರ್ಕಾರಿ ಸೇವೆಗಳು, ಇಲಾಖಾ ಪ್ರಮಾಣಪತ್ರಗಳು ಮತ್ತು ಕಲ್ಯಾಣ ಯೋಜನೆಗಳಿಗೆ ಆನ್‌ಲೈನ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಏಕ-ಗವಾಕ್ಷಿ ಪೋರ್ಟಲ್.",
+        "hi": "राज्य सरकारी सेवाओं, विभागीय प्रमाणपत्रों और कल्याणकारी योजनाओं के लिए ऑनलाइन आवेदन करने हेतु कर्नाटक सरकार का एकीकृत सिंगल-विंडो पोर्टल।"
+      },
+      "next_steps": {
+        "en": [
+          "Visit the official Seva Sindhu portal using the link below.",
+          "Check the service directory on Seva Sindhu to confirm whether your required service or scheme is listed.",
+          "Review the official department instructions, required documents, and submission rules directly on Seva Sindhu before applying."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಅಧಿಕೃತ ಲಿಂಕ್ ಮೂಲಕ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+          "ನಿಮಗೆ ಬೇಕಾದ ಸೇವೆ ಅಥವಾ ಯೋಜನೆ ಪಟ್ಟಿ ಮಾಡಲಾಗಿದೆಯೇ ಎಂದು ಸೇವಾ ಸಿಂಧು ಸೇವಾ ಪಟ್ಟಿಯಲ್ಲಿ ಪರಿಶೀಲಿಸಿ.",
+          "ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಇಲಾಖೆಯ ಅಧಿಕೃತ ಸೂಚನೆಗಳು ಮತ್ತು ನಿಯಮಗಳನ್ನು ಓದಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए आधिकारिक लिंक से सेवा सिंधु पोर्टल पर जाएं।",
+          "सेवा सिंधु की सेवा निर्देशिका में जांचें कि आपकी आवश्यक सेवा या योजना वहां सूचीबद्ध है या नहीं।",
+          "आवेदन करने से पहले पोर्टल पर दिए गए आधिकारिक विभागीय निर्देश और नियम ध्यानपूर्वक पढ़ें।"
+        ]
+      },
+      "official_url": "https://sevasindhu.karnataka.gov.in/",
+      "portal_label": "sevasindhu.karnataka.gov.in",
+      "keywords": [
+        "seva sindhu",
+        "sevasindhu",
+        "apply government service",
+        "scheme",
+        "certificate",
+        "guarantee scheme",
+        "single window",
+        "ಸೇವಾ ಸಿಂಧು",
+        "ಅರ್ಜಿ",
+        "ಪ್ರಮಾಣಪತ್ರ",
+        "ಸರ್ಕಾರಿ ಸೇವೆ",
+        "ಯೋಜನೆ",
+        "सेवा सिंधु",
+        "आवेदन",
+        "प्रमाणपत्र",
+        "सरकारी सेवा",
+        "योजना"
+      ],
+      "suggested_followups": {
+        "en": "Where can I find ration-card services in Karnataka?",
+        "kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ರೇಷನ್ ಕಾರ್ಡ್ ಸೇವೆಗಳು ಎಲ್ಲಿ ಸಿಗುತ್ತವೆ?",
+        "hi": "कर्नाटक में राशन कार्ड की सेवाएं कहां मिलेंगी?"
+      }
+    },
+    {
+      "id": "ahara-food-civil-supplies",
+      "name": {
+        "en": "Ahara — Food, Civil Supplies & Consumer Affairs",
+        "kn": "ಆಹಾರ — ಆಹಾರ, ನಾಗರಿಕ ಸರಬರಾಜು ಮತ್ತು ಗ್ರಾಹಕರ ವ್ಯವಹಾರಗಳು",
+        "hi": "आहार — खाद्य, नागरिक आपूर्ति एवं उपभोक्ता मामले"
+      },
+      "category": {
+        "en": "Ahara",
+        "kn": "ಆಹಾರ",
+        "hi": "आहार"
+      },
+      "department": {
+        "en": "Department of Food, Civil Supplies & Consumer Affairs, Government of Karnataka",
+        "kn": "ಆಹಾರ, ನಾಗರಿಕ ಸರಬರಾಜು ಮತ್ತು ಗ್ರಾಹಕರ ವ್ಯವಹಾರಗಳ ಇಲಾಖೆ, ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "खाद्य, नागरिक आपूर्ति एवं उपभोक्ता मामले विभाग, कर्नाटक सरकार"
+      },
+      "description": {
+        "en": "The official Karnataka portal for ration card services, Public Distribution System (PDS) information, fair price shop details, and consumer affairs services.",
+        "kn": "ರೇಷನ್ ಕಾರ್ಡ್ (ಪಡಿತರ ಚೀಟಿ) ಸೇವೆಗಳು, ಸಾರ್ವಜನಿಕ ವಿತರಣಾ ವ್ಯವಸ್ಥೆ (PDS) ಮಾಹಿತಿ, ನ್ಯಾಯಬೆಲೆ ಅಂಗಡಿ ವಿವರಗಳು ಮತ್ತು ಗ್ರಾಹಕರ ವ್ಯವಹಾರಗಳ ಸೇವೆಗಳಿಗಾಗಿ ಕರ್ನಾಟಕದ ಅಧಿಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "राशन कार्ड सेवाओं, सार्वजनिक वितरण प्रणाली (PDS) की जानकारी, उचित मूल्य दुकान विवरण और उपभोक्ता मामलों की सेवाओं के लिए कर्नाटक का आधिकारिक पोर्टल।"
+      },
+      "next_steps": {
+        "en": [
+          "Open the official Ahara portal via the verified link below.",
+          "Select the e-Services or Ration Card section to view currently active ration-card and PDS services.",
+          "Check official status updates, eligibility notices, and district office details published on Ahara."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಅಧಿಕೃತ ಲಿಂಕ್ ಮೂಲಕ ಆಹಾರ (Ahara) ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ.",
+          "ಪ್ರಸ್ತುತ ಲಭ್ಯವಿರುವ ಪಡಿತರ ಚೀಟಿ ಮತ್ತು ಪಿಡಿಎಸ್ ಸೇವೆಗಳನ್ನು ನೋಡಲು ಇ-ಸೇವೆಗಳು ಅಥವಾ ರೇಷನ್ ಕಾರ್ಡ್ ವಿಭಾಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+          "ಆಹಾರ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪ್ರಕಟಿಸಲಾದ ಅಧಿಕೃತ ಸ್ಥಿತಿ ಮತ್ತು ಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए आधिकारिक लिंक से आहार (Ahara) पोर्टल खोलें।",
+          "वर्तमान में उपलब्ध राशन कार्ड और पीडीएस सेवाएं देखने के लिए ई-सेवाएं या राशन कार्ड अनुभाग चुनें।",
+          "पोर्टल पर प्रकाशित आधिकारिक स्थिति और विभागीय सूचनाएं जांचें।"
+        ]
+      },
+      "official_url": "https://ahara.karnataka.gov.in/",
+      "portal_label": "ahara.karnataka.gov.in",
+      "keywords": [
+        "ahara",
+        "ration card",
+        "pds",
+        "food",
+        "civil supplies",
+        "fair price shop",
+        "bpl",
+        "apl",
+        "ಆಹಾರ",
+        "ರೇಷನ್ ಕಾರ್ಡ್",
+        "ಪಡಿತರ ಚೀಟಿ",
+        "ನ್ಯಾಯಬೆಲೆ ಅಂಗಡಿ",
+        "आहार",
+        "राशन कार्ड",
+        "खाद्य",
+        "नागरिक आपूर्ति"
+      ],
+      "suggested_followups": {
+        "en": "Which portal handles urban utility bill payments in Karnataka?",
+        "kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ನಗರ ಸೇವಾ ಬಿಲ್ ಪಾವತಿಗಳಿಗೆ ಯಾವ ಪೋರ್ಟಲ್ ಬಳಸಬೇಕು?",
+        "hi": "कर्नाटक में शहरी उपयोगिता बिल भुगतान के लिए कौन सा पोर्टल है?"
+      }
+    },
+    {
+      "id": "bengaluru-urban-citizen-services",
+      "name": {
+        "en": "Bengaluru Urban Citizen Services",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ನಾಗರಿಕ ಸೇವೆಗಳು",
+        "hi": "बेंगलुरु शहरी नागरिक सेवाएं"
+      },
+      "category": {
+        "en": "Bengaluru Urban Citizen Services",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ನಾಗರಿಕ ಸೇವೆಗಳು",
+        "hi": "बेंगलुरु शहरी नागरिक सेवाएं"
+      },
+      "department": {
+        "en": "Bengaluru Urban District Administration",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾಡಳಿತ",
+        "hi": "बेंगलुरु शहरी जिला प्रशासन"
+      },
+      "description": {
+        "en": "Dedicated citizen-services directory on the Bengaluru Urban District website linking residents to district-level certificates, public grievances, Sakala services, Atalji Janasnehi Kendras, and welfare portals.",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿನ ನಾಗರಿಕ ಸೇವೆಗಳ ಅಧಿಕೃತ ವಿಭಾಗ; ಜಿಲ್ಲಾ ಮಟ್ಟದ ಪ್ರಮಾಣಪತ್ರಗಳು, ಸಾರ್ವಜನಿಕ ದೂರುಗಳು, ಸಕಾಲ ಸೇವೆಗಳು ಮತ್ತು ಅಟಲ್‌ಜಿ ಜನಸ್ನೇಹಿ ಕೇಂದ್ರಗಳ ಲಿಂಕ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+        "hi": "बेंगलुरु शहरी जिला वेबसाइट पर समर्पित नागरिक सेवा निर्देशिका, जो जिला स्तरीय प्रमाणपत्र, जन शिकायत, सकाला सेवाओं और अटलजी जनस्नेही केंद्रों से जोड़ती है।"
+      },
+      "next_steps": {
+        "en": [
+          "Open the Bengaluru Urban Citizen Services page using the official link below.",
+          "Locate the specific district service category (certificates, grievances, land records, or welfare links).",
+          "Follow the linked official department portal or district office contact instructions."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಅಧಿಕೃತ ಲಿಂಕ್ ಮೂಲಕ ಬೆಂಗಳೂರು ನಗರ ನಾಗರಿಕ ಸೇವೆಗಳ ಪುಟವನ್ನು ತೆರೆಯಿರಿ.",
+          "ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಜಿಲ್ಲಾ ಸೇವಾ ವಿಭಾಗವನ್ನು (ಪ್ರಮಾಣಪತ್ರಗಳು, ದೂರುಗಳು, ಭೂ ದಾಖಲೆಗಳು) ಆಯ್ಕೆಮಾಡಿ.",
+          "ಅಲ್ಲಿ ನೀಡಿರುವ ಅಧಿಕೃತ ಇಲಾಖಾ ಪೋರ್ಟಲ್ ಅಥವಾ ಜಿಲ್ಲಾ ಕಚೇರಿ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए आधिकारिक लिंक से बेंगलुरु शहरी नागरिक सेवा पृष्ठ खोलें।",
+          "अपनी आवश्यक जिला सेवा श्रेणी (प्रमाणपत्र, शिकायत, भूमि अभिलेख या कल्याण लिंक) चुनें।",
+          "संबंधित आधिकारिक विभाग पोर्टल या जिला कार्यालय निर्देशों का पालन करें।"
+        ]
+      },
+      "official_url": "https://bengaluruurban.nic.in/en/services/",
+      "portal_label": "bengaluruurban.nic.in/en/services",
+      "keywords": [
+        "bengaluru urban",
+        "bangalore urban",
+        "citizen services",
+        "sakala",
+        "atalji janasnehi",
+        "grievance",
+        "district service",
+        "ಬೆಂಗಳೂರು ನಗರ",
+        "ನಾಗರಿಕ ಸೇವೆಗಳು",
+        "ಸಕಾಲ",
+        "ದೂರು",
+        "बेंगलुरु शहरी",
+        "नागरिक सेवाएं",
+        "शिकायत"
+      ],
+      "suggested_followups": {
+        "en": "Where is the main Bengaluru Urban District administration portal?",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾಡಳಿತದ ಮುಖ್ಯ ಪೋರ್ಟಲ್ ಯಾವುದು?",
+        "hi": "बेंगलुरु शहरी जिला प्रशासन का मुख्य पोर्टल कौन सा है?"
+      }
+    },
+    {
+      "id": "karnataka-one",
+      "name": {
+        "en": "Karnataka One",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್",
+        "hi": "कर्नाटक वन"
+      },
+      "category": {
+        "en": "Karnataka One",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್",
+        "hi": "कर्नाटक वन"
+      },
+      "department": {
+        "en": "Directorate of Electronic Delivery of Citizen Services (EDCS), Karnataka",
+        "kn": "ನಾಗರಿಕ ಸೇವೆಗಳ ವಿದ್ಯುನ್ಮಾನ ವಿತರಣಾ ನಿರ್ದೇಶನಾಲಯ (EDCS), ಕರ್ನಾಟಕ",
+        "hi": "नागरिक सेवाओं के इलेक्ट्रॉनिक वितरण निदेशालय (EDCS), कर्नाटक"
+      },
+      "description": {
+        "en": "Karnataka's integrated single-window citizen service center and online portal for government-to-citizen (G2C) services, utility bill payments, and municipal services across Karnataka cities.",
+        "kn": "ಕರ್ನಾಟಕದ ನಗರಗಳಲ್ಲಿ ಸರ್ಕಾರಿ ನಾಗರಿಕ ಸೇವೆಗಳು (G2C), ವಿದ್ಯುತ್/ನೀರಿನ ಬಿಲ್ ಪಾವತಿಗಳು ಮತ್ತು ನಗರಸಭೆ ಸೇವೆಗಳಿಗೆ ಏಕ-ಗವಾಕ್ಷಿ ಆನ್‌ಲೈನ್ ಪೋರ್ಟಲ್ ಮತ್ತು ಸೇವಾ ಕೇಂದ್ರ.",
+        "hi": "कर्नाटक के शहरों में सरकारी नागरिक सेवाओं (G2C), उपयोगिता बिल भुगतान और नगरपालिका सेवाओं के लिए एकीकृत सिंगल-विंडो ऑनलाइन पोर्टल और सेवा केंद्र।"
+      },
+      "next_steps": {
+        "en": [
+          "Visit the official Karnataka One portal using the link below.",
+          "Check the list of available online G2C services or locate your nearest Karnataka One physical center.",
+          "Use the official portal menu to review service availability in your city."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಅಧಿಕೃತ ಲಿಂಕ್ ಮೂಲಕ ಕರ್ನಾಟಕ ಒನ್ ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+          "ಲಭ್ಯವಿರುವ ಆನ್‌ಲೈನ್ G2C ಸೇವೆಗಳ ಪಟ್ಟಿಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ಹತ್ತಿರದ ಕರ್ನಾಟಕ ಒನ್ ಕೇಂದ್ರವನ್ನು ಹುಡುಕಿ.",
+          "ನಿಮ್ಮ ನಗರದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಸೇವೆಗಳನ್ನು ಪೋರ್ಟಲ್ ಮೆನುವಿನಲ್ಲಿ ನೋಡಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए आधिकारिक लिंक से कर्नाटक वन पोर्टल पर जाएं।",
+          "उपलब्ध ऑनलाइन G2C सेवाओं की सूची देखें या अपने निकटतम कर्नाटक वन केंद्र का पता लगाएं।",
+          "अपने शहर में सेवा की उपलब्धता जांचने के लिए आधिकारिक पोर्टल मेनू का उपयोग करें।"
+        ]
+      },
+      "official_url": "https://www.karnatakaone.gov.in/",
+      "portal_label": "karnatakaone.gov.in",
+      "keywords": [
+        "karnataka one",
+        "karnatakaone",
+        "utility bill",
+        "electricity bill",
+        "water bill",
+        "municipal",
+        "g2c",
+        "ಕರ್ನಾಟಕ ಒನ್",
+        "ಬಿಲ್ ಪಾವತಿ",
+        "ನಗರ ಸೇವೆ",
+        "कर्नाटक वन",
+        "बिल भुगतान",
+        "नगरपालिका"
+      ],
+      "suggested_followups": {
+        "en": "How can I access Seva Sindhu for state schemes?",
+        "kn": "ರಾಜ್ಯ ಯೋಜನೆಗಳಿಗಾಗಿ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು?",
+        "hi": "राज्य योजनाओं के लिए सेवा सिंधु पोर्टल कैसे उपयोग करें?"
+      }
+    },
+    {
+      "id": "bengaluru-urban-district-portal",
+      "name": {
+        "en": "Bengaluru Urban District Portal",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾ ಪೋರ್ಟಲ್",
+        "hi": "बेंगलुरु शहरी जिला पोर्टल"
+      },
+      "category": {
+        "en": "Bengaluru Urban District Portal",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾ ಪೋರ್ಟಲ್",
+        "hi": "बेंगलुरु शहरी जिला पोर्टल"
+      },
+      "department": {
+        "en": "Office of the Deputy Commissioner, Bengaluru Urban District",
+        "kn": "ಜಿಲ್ಲಾಧಿಕಾರಿಗಳ ಕಚೇರಿ, ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲೆ",
+        "hi": "उपायुक्त कार्यालय, बेंगलुरु शहरी जिला"
+      },
+      "description": {
+        "en": "Official district administration portal for Bengaluru Urban providing public notices, Deputy Commissioner office announcements, taluk and revenue directory, and links to district citizen services.",
+        "kn": "ಸಾರ್ವಜನಿಕ ಪ್ರಕಟಣೆಗಳು, ಜಿಲ್ಲಾಧಿಕಾರಿ ಕಚೇರಿಯ ಮಾಹಿತಿ, ತಾಲ್ಲೂಕು ಮತ್ತು ಕಂದಾಯ ವಿವರಗಳು ಹಾಗೂ ಜಿಲ್ಲಾ ನಾಗರಿಕ ಸೇವೆಗಳ ಲಿಂಕ್‌ಗಳನ್ನು ಒದಗಿಸುವ ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾಡಳಿತದ ಅಧಿಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "सार्वजनिक सूचनाएं, उपायुक्त कार्यालय के अपडेट, तहसील व राजस्व निर्देशिका और जिला नागरिक सेवाओं के लिंक प्रदान करने वाला बेंगलुरु शहरी जिला प्रशासन का आधिकारिक पोर्टल।"
+      },
+      "next_steps": {
+        "en": [
+          "Open the official Bengaluru Urban District Portal via the link below.",
+          "Check the Notices, Directory, or About District sections for official announcements and office contacts.",
+          "Use the Citizen Services menu for online service portals connected to Bengaluru Urban."
+        ],
+        "kn": [
+          "ಕೆಳಗಿನ ಲಿಂಕ್ ಮೂಲಕ ಅಧಿಕೃತ ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲಾ ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ.",
+          "ಅಧಿಕೃತ ಪ್ರಕಟಣೆಗಳು ಮತ್ತು ಕಚೇರಿ ಸಂಪರ್ಕ ವಿವರಗಳಿಗಾಗಿ ಸೂಚನೆಗಳು ಅಥವಾ ಜಿಲ್ಲಾ ಮಾಹಿತಿ ವಿಭಾಗವನ್ನು ನೋಡಿ.",
+          "ಆನ್‌ಲೈನ್ ಸೇವೆಗಳಿಗಾಗಿ ನಾಗರಿಕ ಸೇವೆಗಳ ಮೆನುವನ್ನು ಬಳಸಿ."
+        ],
+        "hi": [
+          "नीचे दिए गए लिंक से आधिकारिक बेंगलुरु शहरी जिला पोर्टल खोलें।",
+          "आधिकारिक सूचनाओं और कार्यालय संपर्क विवरण के लिए नोटिस या जिला निर्देशिका अनुभाग देखें।",
+          "ऑनलाइन सेवाओं के लिए नागरिक सेवा मेनू का उपयोग करें।"
+        ]
+      },
+      "official_url": "https://bengaluruurban.nic.in/",
+      "portal_label": "bengaluruurban.nic.in",
+      "keywords": [
+        "bengaluru urban district",
+        "deputy commissioner",
+        "dc office",
+        "district portal",
+        "notices",
+        "taluk",
+        "revenue",
+        "ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲೆ",
+        "ಜಿಲ್ಲಾಧಿಕಾರಿ",
+        "ತಾಲ್ಲೂಕು",
+        "ಪ್ರಕಟಣೆ",
+        "बेंगलुरु शहरी जिला",
+        "उपायुक्त",
+        "तहसील",
+        "जिला पोर्टल"
+      ],
+      "suggested_followups": {
+        "en": "Show me Bengaluru Urban Citizen Services links.",
+        "kn": "ಬೆಂಗಳೂರು ನಗರ ನಾಗರಿಕ ಸೇವೆಗಳ ಲಿಂಕ್‌ಗಳನ್ನು ತೋರಿಸಿ.",
+        "hi": "बेंगलुरु शहरी नागरिक सेवाओं के लिंक दिखाएं।"
+      }
+    }
+  ]
+}
